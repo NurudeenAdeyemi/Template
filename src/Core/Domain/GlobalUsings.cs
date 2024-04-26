@@ -1,0 +1,1 @@
+﻿global using Template.Domain.Common.Contracts;
